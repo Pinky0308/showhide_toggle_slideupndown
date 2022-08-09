@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+button{
+    font-size: 20px;
+    padding:5px;
+    margin-right: 10px;
+}
+.box{
+    height: 200px;
+    width:200px;
+    margin:20px 0 0 150px;
+    background-color: aqua;
+    display: none;
+}
